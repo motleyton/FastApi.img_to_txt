@@ -1,7 +1,4 @@
 # FastApi.imgtotxt
 
-### План
- - Протестить модельку тессеракт
- - Предикт записать в БД
- - Внедрить в фастапи
+## extract text from image (tesseract)
  
